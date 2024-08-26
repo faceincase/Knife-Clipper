@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/a3c7ad7f-b7ad-4f4a-92e4-22fcd9b08675
 
 
 > [!WARNING]  
-> Code will be added soon.
+> Requires `pip install opencv-python`
 
 ## How does it work?
 1. Put mp4 clips in folder `BEFORE`.
