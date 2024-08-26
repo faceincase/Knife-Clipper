@@ -4,7 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Recommended usage:
-Made for processing large amounts of clips of any length to extract only knife kills, for compilations or edits (tiktok, yt shorts etc.).
+Process large amounts of game clips to extract only knife kills.
+Could be used for compilations or edits (tiktok, shorts etc.)
 
 </div>
 
