@@ -9,9 +9,7 @@ Could be used for compilations or edits (tiktok, shorts etc.)
 
 </div>
 
-
-
-![knife clipper](https://github.com/user-attachments/assets/7c155b88-7f84-43eb-b725-64b5a1bdc10e)
+![knife clipper](https://github.com/user-attachments/assets/fd1509ce-04e8-40ff-b6ec-42baf4520e7b)
 
 https://github.com/user-attachments/assets/a3c7ad7f-b7ad-4f4a-92e4-22fcd9b08675
 
