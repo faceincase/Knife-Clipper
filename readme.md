@@ -5,7 +5,10 @@
 
 ## Recommended usage:
 Process large amounts of game clips to extract only knife kills.
+<br>
 Could be used for compilations or edits (tiktok, shorts etc.)
+<br><br>
+Tired of manually finding and cutting out kills? No more.
 
 </div>
 
