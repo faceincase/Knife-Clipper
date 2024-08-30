@@ -12,11 +12,13 @@ Tired of manually finding and cutting out kills? No more.
 
 </div>
 
+![knife clipper](https://github.com/user-attachments/assets/fd1509ce-04e8-40ff-b6ec-42baf4520e7b)
+
+<br>
+
 Below clip is an example.
 <br>
 Code was given a 5 minute gameplay clip and extracted all the knife kills found in this duration.
-![knife clipper](https://github.com/user-attachments/assets/fd1509ce-04e8-40ff-b6ec-42baf4520e7b)
-
 https://github.com/user-attachments/assets/a3c7ad7f-b7ad-4f4a-92e4-22fcd9b08675
 
 
