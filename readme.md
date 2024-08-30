@@ -9,6 +9,8 @@ Process large amounts of game clips to extract only knife kills.
 Could be used for compilations or edits (tiktok, shorts etc.)
 <br><br>
 Tired of manually finding and cutting out kills? No more.
+<br>
+Currently supporting: **Valorant** & **CS 2**
 
 </div>
 
