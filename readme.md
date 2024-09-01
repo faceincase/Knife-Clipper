@@ -3,20 +3,26 @@
 # Knife Clipper
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Recommended usage:
-Process large amounts of game clips to extract only knife kills.
-<br>
-Could be used for compilations or edits (tiktok, shorts etc.)
-<br><br>
-Tired of manually finding and cutting out kills? No more.
-<br>
-Currently supporting: **Valorant** & **CS 2**
-
 </div>
 
 ![knife clipper](https://github.com/user-attachments/assets/fd1509ce-04e8-40ff-b6ec-42baf4520e7b)
 
 <br>
+
+<div align="center">
+  
+  ## Recommended usage:
+  Process large amounts of game clips to extract only knife kills.
+  <br>
+  Could be used for compilations or edits (tiktok, shorts etc.)
+  <br><br>
+  Tired of manually finding and cutting out kills? No more.
+  <br>
+  Currently supporting: **Valorant** & **CS 2**
+
+</div>
+
+<br><br>
 
 Below clip is an example.
 <br>
